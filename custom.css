@@ -1,0 +1,17 @@
+img[alt=neuron] { width: 800px; }
+
+.container { width:100% !important;}
+
+div#notebook p, div#notebook{
+    width: auto;
+    font-size: 130%;
+    line-height: 150%;
+}
+.rendered_html pre, .rendered_html table{
+    font-size:130%;
+    line-height: 150%;
+}
+.CodeMirror, .CodeMirror pre, .CodeMirror-dialog, .CodeMirror-dialog .CodeMirror-search-field, .terminal-app .terminal {
+    font-size: 130%;
+    line-height: 150%;
+}

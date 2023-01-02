@@ -1,0 +1,9 @@
+*.swp
+.ipynb_checkpoints
+__pycache__
+Output
+Dump
+Latex
+Archive
+readme.txt
+MakingFigures
