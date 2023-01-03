@@ -1,4 +1,4 @@
-# 2023-daml-chapter-mooc-bocquet-farchi
+# adomo-mocis-wape-daml-mooc
 
 ### This jupyter notebook has been created by Marc Bocquet and Alban Farchi for the ENPC/ADOMO, MOCIS/NUM2.2 and WAPE/NUM2.2 course.
 
