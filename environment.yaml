@@ -1,0 +1,11 @@
+name: mooc
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - jupyterlab
+  - tensorflow  
+  - ipywidgets
