@@ -3,6 +3,8 @@
 #### Marc Bocquet¹ [marc.bocquet@enpc.fr](mailto:marc.bocquet@enpc.fr) and Alban Farchi¹ [alban.farchi@enpc.fr](mailto:alban.farchi@enpc.fr)
 ##### (1) CEREA, École des Ponts and EdF R&D, IPSL, Île-de-France, France
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10491402.svg)](https://doi.org/10.5281/zenodo.10491402)
+
 * This jupyter notebook has been created by Marc Bocquet and Alban Farchi for the ENPC/ADOMO, MOCIS/NUM2.2 and WAPE/NUM2.2 course.
 
 * This corresponds to one lecture block (3.5 hours).
