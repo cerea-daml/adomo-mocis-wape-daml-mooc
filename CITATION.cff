@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+- affiliation: "École des Ponts ParisTech"
+  family-names: Bocquet
+  given-names: Marc
+  orcid: 0000-0003-2675-0347
+- family-names: Farchi
+  given-names: Alban
+  orcid: 0000-0002-4162-8289
+title: 'adomo-mocis-wape-daml-mooc'
+version: 1.0.0
+doi: 10.5281/zenodo.10491402
+date-released: '2024-01-11'
+license: mit
+url: "https://github.com/cerea-daml/adomo-mocis-wape-daml-mooc"
