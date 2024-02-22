@@ -25,8 +25,9 @@ Go to the repertory. Once there, create a dedicated anaconda environment for the
 
 Activate the newly created environment:
 
-    $ conda activate tdma
+    $ conda activate mooc
 
-Open the notebook (e.g. with Jupyter) and follow the instructions:
+Open the notebooks (e.g. with Jupyter) and run the cells:
 
-    $ jupyter-notebook questions.ipynb
+    $ jupyter-notebook daml-part1.ipynb
+    $ jupyter-notebook daml-part2.ipynb
